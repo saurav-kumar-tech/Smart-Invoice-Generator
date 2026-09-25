@@ -40,41 +40,41 @@ This project demonstrates practical implementation of **HTML5 form elements, sem
 
 ## 📸 Screenshots
 
-### 🏠 Main Interface
+### 🏠 Main Application
 
-![Main Interface](screenshots/01-home.png)
+![Main Application](screenshots/01-full-app-gradient.png)
 
-### 🧾 Invoice Form
+### 🧾 Invoice Preview with QR Code
 
-![Invoice Form](screenshots/02-invoice-form.png)
+![Invoice Preview with QR Code](screenshots/02-invoice-preview-with-qr.png)
 
-### 👤 Customer Details
+### 📝 Notes & QR Code
 
-![Customer Details](screenshots/03-customer-details.png)
+![Notes and QR Code](screenshots/03-notes-qr-row-filled.png)
 
-### 📦 Product / Service Details
+### 📄 Empty Notes & QR Section
 
-![Product Details](screenshots/04-products.png)
+![Empty Notes and QR Section](screenshots/04-notes-qr-row-empty.png)
 
-### 💰 Invoice Calculation
+### 🎨 Theme Menu
 
-![Invoice Calculation](screenshots/05-calculation.png)
+![Theme Menu](screenshots/05-theme-menu.png)
 
-### 📄 Generated Invoice
+### 🌙 Dark Mode
 
-![Generated Invoice](screenshots/06-invoice.png)
+![Dark Mode](screenshots/06-full-app-dark.png)
+
+### 📚 Invoice History
+
+![Invoice History](screenshots/07-history-panel.png)
+
+### 📱 Mobile View
+
+![Mobile View](screenshots/08-mobile-view.png)
 
 ### 🖨️ Print Preview
 
-![Print Preview](screenshots/07-print.png)
-
-### 📱 Responsive View
-
-![Responsive View](screenshots/08-responsive.png)
-
-### ⚙️ Additional Features
-
-![Additional Features](screenshots/09-features.png)
+![Print Preview](screenshots/09-print-preview.png)
 
 ---
 
